@@ -1,10 +1,10 @@
 # GoCompiler
 
-Developed a compiler for the language deiGo devided in four stages:
+Developed a compiler for the language deiGo divided in four stages:
 
 Lexical analysis - made using C and with lex.
 
-Syntatic analysis - made using C, with lex and yacc. Created an bstract syntax tree.
+Syntatic analysis - made using C, with lex and yacc. Created an abstract syntax tree.
 
 Semantic analysis - created a symbol table and the anotated syntax tree.
 
